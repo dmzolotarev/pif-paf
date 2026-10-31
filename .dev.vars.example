@@ -1,0 +1,5 @@
+# Generate independent random values with `npm run secrets:generate`.
+ORGANIZER_SECRET=replace-with-a-long-random-organizer-password
+PLAYER_AUTH_SECRET=replace-with-an-independent-random-signing-secret
+# Optional. Configure a model available to your project in the admin panel.
+# OPENAI_API_KEY=
